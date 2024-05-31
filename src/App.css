@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+#title {
+  width: 200px;
+  font-size: 20px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  margin: 40px;
+  background-color: white;
+  width: 1350px;
+  height: 100px;
+  font-family: Cambria, 'Times New Roman', serif;
+  border: 3px solid rgb(38, 135, 51);
+  position: relative;
+}
+
+button:hover {
+  background-color: #19ae66;
+}
